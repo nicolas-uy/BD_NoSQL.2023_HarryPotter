@@ -1,6 +1,9 @@
 # BD_NoSQL.2023_HarryPotter
-Ejericio semana 3 de la materia Base de Datos NoSQL - Libros y Películas de Harry Potter - UTEC
+Ejercicio semana 3 de la materia Base de Datos NoSQL
+Libros y Películas de Harry Potter
+UTEC
 Interfaz Java Swing
+Proyecto desarrollado en Eclipse.
 
 Documentos MongoDB:
 {
